@@ -8,7 +8,7 @@ Urban Traffic Flow Prediction based on Spatio-temporal Decoupled 3D DenseNet wit
 - jupyter notebook
 # Usage
 
-To create the TensorFlow computation graph of the model architecture run:
+To create the PyTorch computation graph of the ST-D3DDARN architecture run:
 
     ST-D3DDARN.ipynb
 

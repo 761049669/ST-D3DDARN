@@ -1,5 +1,12 @@
 # ST-D3DDARN  in pytorch
 The PyTorch implementation of Spatio-temporal Decoupled 3D DenseNet with Attention ResNet(ST-D3DDARN) form the paper "Urban Traffic Flow Prediction based on Spatio-temporal Decoupled 3D DenseNet with Attention ResNet ". These files include all the code and datasets supporting the experimental data presented in this paper.
+
+## Model architecture
+
+<p align="center"> 
+<img src="Fig 6.tif">
+</p>  
+
 # Prerequisites
 
 - Python3.9

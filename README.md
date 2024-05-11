@@ -22,11 +22,11 @@ To create the PyTorch computation graph of the ST-D3DDARN architecture run:
 ## Code Organization
 
 * `ST-D3DDARN.py`: This file contains the main program. The computation graph for ST-D3DDARN is built, launched in a session, trained, and tested here.
-* 'BJ13_M32x32_T30_InOut.zip': Taxi inflow and outflow data in Beijing in 2013.
-* 'BJ14_M32x32_T30_InOut.zip': Taxi inflow and outflow data in Beijing in 2014.
-* 'BJ15_M32x32_T30_InOut.zip': Taxi inflow and outflow data in Beijing in 2015.
-* 'BJ16_M32x32_T30_InOut.zip': Taxi inflow and outflow data in Beijing in 2016.
-* 'BJ_Holiday.txt': Beijing holiday data.
-* 'BJ_Meteorology': Meteorological data of Beijing.
-* 'BikeNYC': Bike-sharing inflow and outflow data in New York.
-* 'ST-D3DDARN.zip': This zipped file contains all the code for the experiments in the paper.
+* `BJ13_M32x32_T30_InOut.zip`: Taxi inflow and outflow data in Beijing in 2013.
+* `BJ14_M32x32_T30_InOut.zip`: Taxi inflow and outflow data in Beijing in 2014.
+* `BJ15_M32x32_T30_InOut.zip`: Taxi inflow and outflow data in Beijing in 2015.
+* `BJ16_M32x32_T30_InOut.zip`: Taxi inflow and outflow data in Beijing in 2016.
+* `BJ_Holiday.txt`: Beijing holiday data.
+* `BJ_Meteorology`: Meteorological data of Beijing.
+* `BikeNYC`: Bike-sharing inflow and outflow data in New York.
+* `ST-D3DDARN.zip`: This zipped file contains all the code for the experiments in the paper.

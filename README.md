@@ -4,7 +4,7 @@ The PyTorch implementation of Spatio-temporal Decoupled 3D DenseNet with Attenti
 ## Model architecture
 
 <p align="center"> 
-<img src="Fig 6.tif">
+<img src="ST-D3DDARN model structure.png">
 </p>  
 
 # Prerequisites

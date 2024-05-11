@@ -13,3 +13,5 @@ To create the PyTorch computation graph of the ST-D3DDARN architecture run:
     ST-D3DDARN.ipynb
 
 ## Code Organization
+
+* `ST-D3DDARN.py`: This file contains the main program. The computation graph for ST-D3DDARN is built, launched in a session, trained, and tested here.
